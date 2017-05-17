@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Getting and Cleaning Data Course Project
 
 
@@ -65,3 +66,6 @@ Step 5:
 Create a new data frame by finding the mean for each combination of subject and label. It's done by aggregate() function
 Final step:
 Write the new tidy set into a text file called tidy_data.txt, formatted similarly to the original files.
+=======
+# Getting-and-Cleaning-Data-Course-Project
+>>>>>>> Stashed changes
